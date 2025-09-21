@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply border rounded px-3 py-1 shadow text-white;
+}
+.btn-pin { @apply bg-purple-400 hover:bg-yellow-600; }
+.btn-archive { @apply bg-gray-500 hover:bg-gray-600; }
+.btn-trash { @apply bg-red-500 hover:bg-red-600; }
+.btn-edit { @apply bg-green-500 hover:bg-green-600; }
+.btn-restore { @apply bg-green-400 hover:bg-green-500; }
+.btn-delete { @apply bg-red-400 hover:bg-red-500; }
+ 
+ 
