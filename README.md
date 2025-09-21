@@ -1,5 +1,5 @@
 
-## Expanding the ESLint configuration📒 Notes App
+📒 Notes App
 
 A simple Notes Management Application built with React JS, styled using TailwindCSS, and with data persistence using localStorage.
 It allows users to create, organize, and manage notes with tagging, filtering, pinning, archiving, and trash features.
