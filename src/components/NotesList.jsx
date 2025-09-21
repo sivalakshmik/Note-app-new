@@ -1,4 +1,4 @@
-import NoteCard from "./NoteCard";
+import NoteCard from "./NoteCard.jsx";
 
 export default function NotesList(props) {
   const { notes } = props;
@@ -13,3 +13,4 @@ export default function NotesList(props) {
     </div>
   );
 }
+
